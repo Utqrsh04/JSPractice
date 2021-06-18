@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&display=swap');
+input{
+    margin-top: 12px;
+}
+.col-md-4{
+    margin-top: 120px;
+    background-color: rgb(56, 182, 255);
+    font-family: 'Roboto Slab', serif;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
